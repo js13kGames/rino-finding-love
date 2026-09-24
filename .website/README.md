@@ -1,4 +1,7 @@
 ---
+genres:
+  - platformer
+  - adventure
 post: 
 video: https://youtu.be/o0LkxiKJXlg
 directors_cut: 
